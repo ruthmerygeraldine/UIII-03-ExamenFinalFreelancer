@@ -102,6 +102,12 @@ img{
     border: 1px solid #d1d0ea;
     margin: 0px 3px;
 }
+a.border-radio{
+    padding: 4px;
+}
+a.border-radio i{
+    padding: 2px;
+}
 .verde{
 	color: #2bc4a5;
 }
