@@ -1,0 +1,96 @@
+/* Inserta tu código aqui */
+*{
+	padding: 0px;
+	margin:0px;
+}
+.container{
+	padding:0px;
+	width: 960px;
+	margin:0 auto;
+}
+.header-fluid{
+	background: #2bc4a5;
+}
+/* Estilos Globales */
+.negrita{
+	font-weight: bold;
+}
+ul li{
+	list-style: none;
+}
+.menu1 ul li>a{
+    text-decoration: none;
+    color: white !important;
+}
+.d-f {
+	display: flex;
+}
+.p-t {
+	padding-top: 15px;
+}
+.p-b {
+	padding-bottom: 15px;
+}
+.p-l {
+	padding-left: 10px;
+}
+.p-r {
+	padding-right: 10px;
+}
+.pl-0{
+	padding-left: 0px;
+}
+.pr-0{
+	padding-right: 0px;
+}
+.pt-0{
+	padding-top: 0px;
+}
+.pb-0{
+	padding-bottom: 0px;
+}
+.m-t{
+	margin-top: 15px;
+}
+.m-b{
+	margin-bottom: 15px;
+}
+.m-l{
+	margin-left: 15px;
+}
+.m-r{
+	margin-right: 15px;
+}
+.mt-0{
+	margin-top: 0px;
+}
+.mb-0{
+	margin-bottom: 0px;
+}
+
+/* estilos y tamaños de letras */
+.freelancer{
+	font-size: 16px;
+}
+.link{
+	font-size: 12px;
+}
+.whi{
+	color:white;
+}
+.super{
+	font-size: 40px;
+}
+.por_conta{
+	font-size: 18px;
+}
+.parrafo{
+	font-size: 10px;
+}
+.float{
+	float:letter-spacing: left;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
