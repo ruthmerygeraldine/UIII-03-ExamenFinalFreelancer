@@ -87,6 +87,9 @@ ul li{
 .size30{
 	font-size: 30px;
 }
+.size20{
+	font-size: 20px;
+}
 .por_conta{
 	font-size: 18px;
 }
@@ -152,4 +155,9 @@ a.border-radio i{
 .alinear-centro{
 	position: relative;
     justify-content: center;
+}
+
+/* Pagina About Me */
+.padding{
+	padding: 40px 80px 40px 80px;
 }
