@@ -4,13 +4,16 @@
 	margin:0px;
 }
 .container{
-	padding:0px;
-	width: 960px;
-	margin:0 auto;
+	width: 980px;
+	margin: 0 auto;
 }
-.header-fluid{
+.fondo-header1{
+	background: #34495e;
+}
+.fondo-header2{
 	background: #2bc4a5;
 }
+
 /* Estilos Globales */
 .negrita{
 	font-weight: bold;
@@ -69,16 +72,16 @@ ul li{
 }
 
 /* estilos y tamaños de letras */
-.freelancer{
+.size16{
 	font-size: 16px;
 }
-.link{
+.size12{
 	font-size: 12px;
 }
-.whi{
+.texto-blanco{
 	color:white;
 }
-.super{
+.size40{
 	font-size: 40px;
 }
 .por_conta{
@@ -111,6 +114,15 @@ a.border-radio i{
 .verde{
 	color: #2bc4a5;
 }
-.footer2-fluid{
-	background: #192a3a;
+.raya{
+	width: 100px;
+	height: 4px;
+	background: white;
+
+}
+
+/* Fondos de Menus*/
+.alinear-centro{
+	position: relative;
+    justify-content: center;
 }
