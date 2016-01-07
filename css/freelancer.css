@@ -4,7 +4,7 @@
 	margin:0px;
 }
 .container{
-	width: 980px;
+	width: 90%;
 	margin: 0 auto;
 }
 .fondo-header1{
@@ -88,7 +88,7 @@ ul li{
 	font-size: 18px;
 }
 .parrafo{
-	font-size: 10px;
+	font-size: 16px;
 }
 .float{
 	float:letter-spacing: left;
@@ -97,7 +97,7 @@ img{
 	width: 100%;
 	height: 100%;
 }
-.footer-fluid{
+.footer-fluid3{
 	background: #253e4f;
 }
 .border-radio{
@@ -121,8 +121,14 @@ a.border-radio i{
 	background: white;
 
 }
+.texto-negro{
+	color: black;
+}
+.texto-gris{
+	color: gray;
+}
 /* Portafolio */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 350px) {
 	.responsive{
 		flex-direction: column;
 		align-items: baseline;
@@ -134,7 +140,7 @@ a.border-radio i{
 		width: 65%;
 	}
 	.about-res p{
-    width: 660px;
+    width: 500px;
 	}
 
 
